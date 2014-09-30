@@ -1,5 +1,5 @@
-#2014-10-1  ilike 
-#this is a project, just to studying Node.js.
+// @2014-10-1  ilike 
+// @this is a project, just to studying Node.js.
 
 var http = require("http");
 
